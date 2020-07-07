@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    color: #343434;
+    color: #000000;
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
@@ -125,6 +125,9 @@ header {
 /*------ Work Experience-----*/
 .work-experience {
     background: #a1c6d7;
+}
+.work-experience a{
+    color: #2f3061;
 }
 
 /*------ Education-----*/
